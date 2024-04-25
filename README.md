@@ -1,10 +1,12 @@
-# Data table built with Nuxt 3 and Primevue
+# Datatable built with Nuxt3 and Primevue
+
+[https://mhox-fancensus.netlify.app/](https://mhox-fancensus.netlify.app/)
 
 ## Setup
 
 git clone https://github.com/mrhorrocks/fancensus.git
 
-Then
+Then...
 
 ```bash
 # npm
