@@ -1,4 +1,4 @@
-# A data visualisation in Nuxt3, Primevue and Chartjs
+# Data visualisation in Nuxt3, Primevue and Chartjs
 
 Live URL:
 [https://mhox-fancensus.netlify.app/](https://mhox-fancensus.netlify.app/)
