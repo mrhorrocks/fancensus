@@ -1,11 +1,9 @@
-# Datatable built with Nuxt3 and Primevue
+# A Datatable built with Nuxt3 and Primevue
 
 Live URL:
 [https://mhox-fancensus.netlify.app/](https://mhox-fancensus.netlify.app/)
 
-## Setup
-
-Quick setup with npm.
+### Quick setup with npm
 
 Copy the code below into a command terminal and press enter.
 
@@ -32,7 +30,7 @@ yarn install
 bun install
 ```
 
-## Development Server
+### Development Server
 
 Start the development server on `http://localhost:3000`:
 
@@ -50,7 +48,7 @@ yarn dev
 bun run dev
 ```
 
-## Production
+### Production
 
 Build the application for production:
 
