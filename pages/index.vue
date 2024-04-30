@@ -3,7 +3,7 @@
     <Card class="my-8">
       <template #title>Gaming Data</template>
       <template #content>
-        <p class="m-0">Built with Primeview.org and vue-chartjs.</p>
+        <p class="m-0">Built with Primevue.org and vue-chartjs.</p>
       </template>
     </Card>
 
